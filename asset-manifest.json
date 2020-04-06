@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactStepForm/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ReactStepForm/static/js/main.bc511bf8.chunk.js",
+    "main.js.map": "/ReactStepForm/static/js/main.bc511bf8.chunk.js.map",
+    "runtime-main.js": "/ReactStepForm/static/js/runtime-main.a25b5323.js",
+    "runtime-main.js.map": "/ReactStepForm/static/js/runtime-main.a25b5323.js.map",
+    "static/js/2.21c3af42.chunk.js": "/ReactStepForm/static/js/2.21c3af42.chunk.js",
+    "static/js/2.21c3af42.chunk.js.map": "/ReactStepForm/static/js/2.21c3af42.chunk.js.map",
+    "index.html": "/ReactStepForm/index.html",
+    "precache-manifest.78d0c89482af711d7d9c6083fc73e8af.js": "/ReactStepForm/precache-manifest.78d0c89482af711d7d9c6083fc73e8af.js",
+    "service-worker.js": "/ReactStepForm/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ReactStepForm/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.21c3af42.chunk.js.LICENSE.txt": "/ReactStepForm/static/js/2.21c3af42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a25b5323.js",
+    "static/js/2.21c3af42.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bc511bf8.chunk.js"
+  ]
+}
